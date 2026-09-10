@@ -1,2 +1,2 @@
 # My-NixOS-Config
-#NixOS Configuration
+# NixOS Configuration
